@@ -1,0 +1,21 @@
+body{
+	background-color: black;
+}
+
+#canvas{
+	margin: 10px;
+	width: 98%;
+	height: 90%;
+	background: white;
+}
+
+.title{
+	text-align: center;
+	color: white;
+	font-size: 35px;
+}
+
+/*Simple div to align things*/
+.container{
+	text-align: center;
+}

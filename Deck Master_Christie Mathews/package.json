@@ -1,0 +1,14 @@
+{
+  "name": "create-deck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client/main.js",
+  "scripts": {
+    "start" : "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
